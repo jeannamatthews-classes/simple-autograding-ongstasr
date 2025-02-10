@@ -1,0 +1,2 @@
+Is there anything new to github: I was familiar with branches and commits/pushes but I just learned about Forks from this assignment.
+This is a good way to help contribute to someone elses project.
